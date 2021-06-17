@@ -1,6 +1,16 @@
 ### CI/CD with Jenkins
 
 
+![cicdJenkins](https://user-images.githubusercontent.com/56413816/122414606-2d230c80-cf7f-11eb-9899-496388794378.png)
+
+
+
+
+
+
+
+
+
 You have your application available on your local host
 You SSH into your GitHub repository
 GitHub has a Webhook which listens for changes to the repository.
